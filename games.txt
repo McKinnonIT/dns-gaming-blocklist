@@ -4227,7 +4227,6 @@ capybaragames.com
 caq.org.au
 car-games.io
 car-racing-games.org
-car-soccer.com
 car.wars.free.fr
 car4play.com
 caracolor.com
@@ -6212,6 +6211,7 @@ danielking.biz
 danielson_xr7.tripod.com
 dannypelfrey.com
 dannyzgames.com
+danqzq.games
 dantesgames.freeservers.com
 danword.com
 daoc-planet.it
@@ -12484,6 +12484,7 @@ gdrfantasy.it
 gdriveplayer.to
 gdriveplayer.us
 gdzydisplay.com
+ge-hub.freeruproxy.ink
 ge-soku.com
 gearboxpublishing.com
 gearboxsoftware.com
@@ -17715,6 +17716,7 @@ lbryplayer.xyz
 lbsdgame.com
 lcoat.tripod.com
 lcocasino.com
+lcv2-server.danqzq.games
 ldagames.com
 lddv.com
 lddv.sites.netavous.net
@@ -22473,7 +22475,6 @@ parttimepoker.com
 party-games-etc.com
 party-games.fr
 party.163.com
-party.krillion.io
 party.lovetoknow.com
 partyforintroverts.com
 partygamecentral.com
@@ -22558,7 +22559,6 @@ pbkennelclub.com
 pbm.com
 pbm.ndo.co.uk
 pbmcube.com
-pbs-poki-eu.ay.delivery
 pbskids.org
 pc-cheats-codes.com
 pc-game-download.net
@@ -31427,7 +31427,6 @@ ursiny.com
 urt.voxel.net
 urwizards.com
 urza_defender.tripod.com
-us-hub.freeruproxy.ink
 usa.philips.com
 usacasinos.net
 usacheckers.com
